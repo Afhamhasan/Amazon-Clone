@@ -26,5 +26,5 @@ This project is a clone of the Amazon website's front-end design, built using HT
 
 ### Credits
 
-- Developed by [Afham A.H](https://github.com/yourusername)
+- Developed by [Afham A.H](https://github.com/Afhamhasan)
 
