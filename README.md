@@ -1,4 +1,5 @@
 ## Amazon Clone Project
+https://amazon-clone-website-1.netlify.app/
 
 This project is a clone of the Amazon website's front-end design, built using HTML and CSS. The purpose of this project is to practice and showcase front-end web development skills by replicating the layout and design of the Amazon homepage.
 
