@@ -5,7 +5,7 @@ This project is a clone of the Amazon website's front-end design, built using HT
 
 ### Features
 
-- **Navbar:** Replicates the navigation bar of Amazon's website including logo, delivery address, search functionality, sign-in, orders, and cart icons.
+- **Navbar:** Replicates the navigation bar of Amazon's website including logo, delivery address, search functionality, sign-in, orders, and cart icons
   
 - **Panel Section:** Mimics the dropdown panel with various options such as Today's Deals, Customer Service, Registry, Gift Cards, and more.
   
