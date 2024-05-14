@@ -21,7 +21,7 @@ This project is a clone of the Amazon website's front-end design, built using HT
 
 ### Technologies Used
 
-- HTML5: For structuring the web page content.
+- HTML5: For structuring the web page content
   
 - CSS3: For styling and layout of the website
 
