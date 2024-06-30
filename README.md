@@ -17,7 +17,7 @@ This project is a clone of the Amazon website's front-end design, built using HT
 
 ### How to Use
 
-- Simply clone the repository to your local machine and open the `index.html` file in a web browser to view the Amazon clone website.
+- Simply clone the repository to your local machine and open the `index.html` file in a web browser to view the Amazon clone website
 
 ### Technologies Used
 
